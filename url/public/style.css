@@ -1,0 +1,347 @@
+
+.feed{
+    background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet)}
+.app{
+    font-family: 'news reader';
+}
+.side{
+    background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet);
+    font-family: 'news reader';
+}
+
+.image{
+
+    background: linear-gradient(to bottom, blue, violet);
+    background-clip: text;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+.modal-header{ background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet);  }
+
+
+
+.Enter{
+    font-family: 'news reader';
+}
+
+.bi-phone { background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet); }
+.bi-camera { background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet); }
+.bi-gift { background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet); }
+.bi-patch-check{ background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet); }
+
+
+.navbar-brand,a:hover{color:blue;}
+
+.news{
+
+    font-family: 'news-reader';
+}
+.back{z-index:-1;
+    background-image: url(img/background\ img.jpeg);
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-size: cover;
+    background-position: absolute;
+}
+.get{
+    background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, violet);  
+    padding: 50px;
+}
+.features :hover{
+color: blue;
+
+}
+
+.sun{
+    margin-left: 40px;
+}
+.clock{
+    margin-left:0px;
+}
+.hover:hover{
+    color: blue;
+
+}
+@media screen and (max-width: 320px)
+    {
+
+    .media{
+     display: none; 
+    }
+    
+    .scale{
+        width:360px;
+        margin-left:-150px;
+
+    }
+    #space{
+        padding-bottom: 50px;
+    }
+    .cross{
+        width:390px;
+        margin-left:-150px;
+    }
+    
+    .your{
+        margin-left: 50px; 
+    }
+    .store{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+    .mlb{
+        transform:translateX(5%) ;
+    }
+    .mbl{
+        transform:translateX(5%) ;
+    }
+
+    .an{
+        margin-left: -20px;
+    }
+    .device{
+        margin-left: -50px;
+        margin-top:30px ; 
+    }
+    .cir{
+        margin-top: -200px;
+    }
+    .app{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+    .side{
+        margin-top: -80%;
+    }
+.phn{ font-size: medium;
+
+
+
+}
+ #an{margin-bottom:90px;}
+#size{align-items: center;
+    width: 230px;
+    height: 230px;
+    padding-right:20px;margin-bottom:20%;
+}
+#mob{align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-right:-20px;margin-bottom: -200px;
+}
+
+.new{margin-top:10px;}
+
+
+
+}
+
+
+@media screen and (max-width: 375px) and (min-width:321px)
+    {
+
+    .media{
+     display: none; 
+    }
+    .Enter{
+        margin-top: -150%;}
+    
+    .scale{
+        width:400px;
+        margin-left:-110px;
+
+    }
+    .side{
+        margin-top: -80%;}
+    #space{
+        padding-bottom: 30px;
+    }
+    .cross{
+        width:390px;
+        margin-left:-145px;
+    }
+    .wings{
+        margin-left: -50px;
+    }
+    .your{
+        margin-left: 50px; 
+    }
+    .store{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+    .an{
+        margin-left: -20px;
+    }
+    .device{
+        margin-left: -50px;
+        margin-top:30px ; 
+    }
+    .cir{
+        margin-top: -200px;
+    }
+    .menu{
+        padding: 10px;
+        margin-right: -20px;
+    
+    }
+    .top{
+        padding-left: 10px;
+    }
+    .app{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+.phn{ font-size: medium;
+
+
+}
+ #an{margin-bottom:90px;}
+#size{align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-right:20px;margin-bottom:20%;
+}
+#mob{align-items: center;
+    width: 270px;
+    height: 270px;
+    padding-right:-20px;margin-bottom: -200px;}
+
+
+}
+
+@media screen and (max-width: 425px) and (min-width:375px)
+    {
+   
+    .media{
+     display: none; 
+    }
+
+
+    
+    .side{
+        margin-top: -80%;}
+
+    .Enter{
+        margin-top: -130%;}
+    
+    .scale{
+        width:390px;
+        margin-left:-100px;
+
+    }
+    #space{
+        padding-bottom:30px;
+    }
+    .cross{
+        width:390px;
+        margin-left:-80px;
+    }
+    .wings{
+        margin-left: -50px;
+    }
+    .your{
+        margin-left: 50px; 
+    }
+    .store{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+    .an{
+        margin-left: -20px;
+    }
+    .device{
+        margin-left: -50px;
+        margin-top:30px ; 
+    }
+    
+    .app{
+        margin-bottom: -50px;
+        margin-left: -50px;
+    }
+    .cir{
+        margin-top: -200px;
+    }
+    .phn{ font-size: medium;
+
+} 
+    #an{margin-bottom:90px;}
+    #size{align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-right:20px;margin-bottom:20%;
+}
+#mob{align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-right:-20px;margin-bottom: -200px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+    @media screen and (max-width:768px) {
+
+
+.think{
+    
+    display: grid;
+    grid-row: 1fr;
+    justify-content: center;
+}
+#space{
+    padding-bottom: 30px;
+}
+#space2{
+    padding-bottom: 30px;
+}
+.top{
+    font-size: smaller;
+}
+
+
+    
+
+
+.round{
+
+    width: 100px;
+    height: 100px;
+padding-right:-50px;
+
+    }
+}
+
+    @media screen and (max-width:1024px) {
+
+
+        .round{
+           display: flex;
+            width: 200px;
+            height: 200px;
+        padding-right:-50px;
+        
+        
+        }
+    .cont{  display: flex;}
+
+
+
+
+    }
